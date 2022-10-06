@@ -1,6 +1,6 @@
 #!env python3
 """
-HackaGame - Game - 421 
+HackaGame - Game - 421
 """
 from re import S
 import sys, os, random

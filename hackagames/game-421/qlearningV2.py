@@ -13,14 +13,14 @@ class Qlearning421_V2() :
 
     def __init__( self ):
         self.initialize()
-    
+
     def initialize(self):
-        # nb_horizon = 2 #il reste 0, 1 ou 2 tours. Pour l'instant je ne prends pas en compte ce facteur
+        # nb_horizon = 2 #il reste 1 ou 2 tour de lancé de des
         # de1 = 6 #6 possibilité
         # de2 = 6 #6 possibilité
         # de3 = 6 #6 possibilité
-        # nb_actions = 8 # keep-keep-keep 
-        #             # roll-keep-keep keep-roll-keep keep-keep-roll 
+        # nb_actions = 8 # keep-keep-keep
+        #             # roll-keep-keep keep-roll-keep keep-keep-roll
         #             # keep-roll-roll roll-keep-roll roll-roll-keep
         #             # roll-roll-roll
         # self.q_values = np.zeros((nb_horizon, de1, de2, de3, nb_actions))
@@ -65,7 +65,7 @@ class Qlearning421_V2() :
                 reward =  self.jeu.score(self.jeu.stateDico())
                 old_q_value_first_dice = self.q_values[1, first_dice[0] - 1, first_dice[1] - 1, first_dice[2] - 1, first_action_index]
                 old_q_value_second_dice =  self.q_values[0, second_dice[0] - 1, second_dice[1] - 1, second_dice[2] - 1, second_action_index]
-                
+
                 temporal_difference_first_dice = reward + ( self.discount_factor * np.max( self.q_values[1, first_dice[0] - 1, first_dice[1] - 1, first_dice[2] - 1])) - old_q_value_first_dice
                 temporal_difference_second_dice = reward + ( self.discount_factor * np.max( self.q_values[0, second_dice[0] - 1, second_dice[1] - 1, second_dice[2] - 1])) - old_q_value_second_dice
 
@@ -82,10 +82,10 @@ class Qlearning421_V2() :
     def get_indice_next_action(self, horizon, des, epsilon):
         if np.random.random() < epsilon:
             indice_action =  np.argmax(self.q_values[horizon - 1, des[0] - 1, des[1] - 1, des[2] - 1])
-        else: 
+        else:
             indice_action = np.random.randint(8) #int entre 0 et 7
         return indice_action
-    
+
     def get_best_action(self, horizon, des):
         action_index = self.get_indice_next_action(horizon, des, 1.)
         return self.actions[action_index]

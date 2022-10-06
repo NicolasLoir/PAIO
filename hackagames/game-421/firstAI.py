@@ -1,6 +1,6 @@
 #!env python3
 """
-First 421 player 
+First 421 player
 """
 import sys, os, random
 import matplotlib.pyplot as plt
@@ -10,6 +10,8 @@ sys.path.insert(1, os.path.join(sys.path[0], '..'))
 import hackapy as hg
 from qlearning import Qlearning421 as iaQlearning421
 from qlearningV2 import Qlearning421_V2 as iaQlearning421_V2
+from qlearningV3 import Qlearning421_V3 as iaQlearning421_V3
+
 
 def main():
     actions= []
@@ -28,7 +30,7 @@ class PlayerRandom( hg.AbsPlayer ) :
     def __init__(self, actions):
         super().__init__()
         self.actions= actions
-    
+
     # Player interface :
     def wakeUp(self, playerId, numberOfPlayers, gameConf):
         print( f'---\nwake-up player-{playerId} ({numberOfPlayers} players)')
@@ -62,21 +64,24 @@ class PlayerRandom( hg.AbsPlayer ) :
         # iaQlearning = iaQlearning421()
         # action = iaQlearning.get_best_action(self.dices)
 
-        iaQlearningV2 = iaQlearning421_V2()
-        action = iaQlearningV2.get_best_action(self.horizon, self.dices)
+        # iaQlearningV2 = iaQlearning421_V2()
+        # action = iaQlearningV2.get_best_action(self.horizon, self.dices)
+
+        iaQlearningV3 = iaQlearning421_V3()
+        action = iaQlearningV3.get_best_action(self.horizon, self.dices)
 
         print(f'Des: {self.dices}')
         print( f'Action: {action}' )
         return action
-    
+
     def sleep(self, result):
         print( f'--- Results: {str(result)}' )
 
 def plotResults(results, scope= 100):
-    # Calibrate the scope:    
+    # Calibrate the scope:
     if len(results) <= scope :
         scope= 1
-    # Compute averages avery scope results:    
+    # Compute averages avery scope results:
     averageScores= []
     for i in range( scope, len(results)+1 ) :
         averageScores.append( sum(results[ i-scope:i ])/scope )
