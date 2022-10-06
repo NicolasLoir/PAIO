@@ -1,0 +1,15 @@
+#!env python3
+"""
+HackaGame - Game - TicTacToe 
+"""
+import gameEngine as gttt
+from terminalIHM import TTTPlayer as Player1
+from classicFirstAI import PlayerRandom as Player2
+
+def main():
+    game= gttt.GameTTT( "classic" )
+    game.local( [Player1(), Player2()], 1 )
+
+# script
+if __name__ == '__main__' :
+    main()

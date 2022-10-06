@@ -1,0 +1,35 @@
+#!env python3
+"""
+HackaGame - Game - TicTacToe 
+"""
+from re import S
+import sys, os, random
+import gameEngine as gttt
+
+# Local HackaGame:
+sys.path.insert(1, os.path.join(sys.path[0], '..'))
+import hackapy as hg
+
+# Commands:
+class StartCmd( hg.StartCmd ) :
+    def __init__(self) :
+        super().__init__(
+            "TicTacToe",
+            ["classic", "ultimate"],
+            parameters= { 
+                "n": ["number of games", 2],
+                "p": ["server port", 1400]
+            }
+        )
+
+cmd= StartCmd()
+
+print( cmd )
+
+if cmd.mode in ["classic", "ultimate"] :
+    game= gttt.GameTTT( cmd.mode )
+else :
+    print("/!\ Unreconized mode")
+    exit()
+
+game.start( (int)(cmd.parameter("n")), (int)(cmd.parameter("p")) )

@@ -1,0 +1,36 @@
+#!env python3
+"""
+HackaGame - Game - 421 
+"""
+from re import S
+import sys, os, random
+import gameEngine as g421
+
+# Local HackaGame:
+sys.path.insert(1, os.path.join(sys.path[0], '..'))
+
+import hackapy as hg
+
+# Commands:
+class StartCmd( hg.StartCmd ) :
+    def __init__(self) :
+        super().__init__(
+            "421",
+            ["solo", "duo"],
+            parameters= {
+                "n": ["number of games", 10000],
+                "p": ["server port", 1400]
+            }
+        )
+
+cmd= StartCmd()
+print( cmd )
+
+if cmd.mode == "solo" :
+    game= g421.GameSolo()
+elif cmd.mode == "duo" :
+    game= g421.GameDuo()
+else :
+    print("/!\ Unreconized mode")
+
+game.start( (int)(cmd.parameter("n")), (int)(cmd.parameter("p")) )

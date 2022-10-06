@@ -1,0 +1,27 @@
+# Working files:
+.vscode
+*.o
+*.log
+.DS_Store
+
+# Directory:
+build/
+raylib/
+dpd/
+__pycache__
+
+# AI developpers:
+my-ai/
+
+
+# Generated files:
+hackagames/hg-draft
+hackagames/hg-play
+hackagames/hg-term
+hackagames/libhackagames-interface.so
+hackagames/libhackagames.so
+
+# Games Exemple:
+game-risky/hg-risky
+game-risky/hg-risky-hidden
+
