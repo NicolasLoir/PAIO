@@ -1,0 +1,33 @@
+{
+    "init": {
+      "go": 334.1438483880216
+    },
+    "end": {
+      "sleep": 0.0
+    },
+    "2[5, 2, 1]": {
+        "optimalPolicy": "keep-keep-keep",
+        "futureGains": "0<nombre<800"
+    },
+    "2[5, 4, 4]": {
+        "optimalPolicy": "keep-keep-keep",
+        "futureGains": "0<nombre<800"
+    },
+    "2[6, 5, 1]": {
+        "optimalPolicy": "keep-keep-keep",
+        "futureGains": "0<nombre<800"
+    },
+    ...
+    "1[3, 3, 3]": {
+        "optimalPolicy": "keep-keep-keep",
+        "futureGains": "0<nombre<800"
+    },
+    "0[3, 3, 3]": {
+        "optimalPolicy": "keep-keep-keep",
+        "futureGains": "0<nombre<800"
+    },
+    "0[5, 5, 5]": {
+        "optimalPolicy": "keep-keep-keep",
+        "futureGains": "0<nombre<800"
+    }
+  }

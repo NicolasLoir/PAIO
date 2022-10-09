@@ -1,0 +1,64 @@
+#!env python3
+"""
+S: set of states
+A: set of actions
+P: transition function
+R: reward function
+"""
+
+N=10 #maxium value
+p=0.4 #probability winning a bet
+S = [*range(0, N+1)]
+A = [*range(0, N+1)]
+
+def main():
+    optimal_policy = policy_iterations(S, A, P, R)
+    print(optimal_policy)
+
+def policy_iterations(S, A, P, R):
+    policy = {s: A[0] for s in S}
+    while True:
+        old_policy = policy.copy()
+        V = policy_evaluation(policy, S, P, R)
+        policy = policy_improvement(V, S, A, P, R)
+        if (all(old_policy[s] == policy[s] for s in S)):
+            break
+    return policy
+
+def policy_evaluation(policy, S, P, R):
+    V = {s: 0 for s in S}
+    while True:
+        oldV = V.copy()
+        for s in S:
+            a = policy[s]
+            V[s] = R(s,a) + sum( (P(s_next, s, a) * oldV[s_next]) for s_next in S)
+        if (all(oldV[s] == V[s] for s in S)):
+            break
+    return V
+
+def policy_improvement(V, S, A, P, R):
+    policy = {s: A[0] for s in S}
+    for s in S:
+        Q = {}
+        for a in A:
+            Q[a] = R(s,a) + sum( (P(s_next, s, a) * V[s_next]) for s_next in S)
+        policy[s] = max(Q.values())
+    return policy
+
+def P(s_next, s, a):
+    if s + a == s_next and a <= min(s, N-s) and 0 < s < N and a >= 1:
+        return p
+    elif s - a == s_next and a <= min(s, N-s) and 0 < s < N and a >= 1:
+        return 1 - p
+    else:
+        return 0
+
+def R(s, a):
+    if s == N: #win game
+        return 1
+    else:
+        return 0
+
+# script
+if __name__ == '__main__' :
+    main()

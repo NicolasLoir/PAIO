@@ -1,0 +1,1688 @@
+{
+  "init": {
+    "go": 334.1438483880216
+  },
+  "end": {
+    "sleep": 0.0
+  },
+  "2[5, 2, 1]": {
+    "keep-keep-keep": 216.51973945248562,
+    "keep-keep-roll": 169.55207433016702,
+    "keep-roll-keep": 264.3947165987539,
+    "keep-roll-roll": 178.49482857546715,
+    "roll-keep-keep": 326.58743572777763,
+    "roll-keep-roll": 195.26172999427456,
+    "roll-roll-keep": 334.51283314769114,
+    "roll-roll-roll": 244.14472487393974
+  },
+  "2[5, 4, 4]": {
+    "keep-keep-keep": 159.96678101101642,
+    "keep-keep-roll": 190.22668528967804,
+    "keep-roll-keep": 174.98486268953104,
+    "keep-roll-roll": 176.83412701582273,
+    "roll-keep-keep": 179.38277400359664,
+    "roll-keep-roll": 183.75826969045653,
+    "roll-roll-keep": 256.0160278202587,
+    "roll-roll-roll": 180.16270740078943
+  },
+  "2[6, 5, 1]": {
+    "keep-keep-keep": 196.1059253994619,
+    "keep-keep-roll": 140.79221591325998,
+    "keep-roll-keep": 240.31977095070914,
+    "keep-roll-roll": 175.05595956686682,
+    "roll-keep-keep": 285.5583119155966,
+    "roll-keep-roll": 176.7086452409696,
+    "roll-roll-keep": 251.890496987139,
+    "roll-roll-roll": 227.96457958891
+  },
+  "2[5, 5, 1]": {
+    "keep-keep-keep": 208.63383785472533,
+    "keep-keep-roll": 152.82810073934914,
+    "keep-roll-keep": 248.0660359938314,
+    "keep-roll-roll": 166.41874987849872,
+    "roll-keep-keep": 234.75499613953602,
+    "roll-keep-roll": 240.05873778050238,
+    "roll-roll-keep": 306.5531385970213,
+    "roll-roll-roll": 222.01466611953745
+  },
+  "2[3, 2, 1]": {
+    "keep-keep-keep": 251.143273609755,
+    "keep-keep-roll": 154.26815338946068,
+    "keep-roll-keep": 250.8403089306497,
+    "keep-roll-roll": 156.29439541640951,
+    "roll-keep-keep": 328.83411469211234,
+    "roll-keep-roll": 225.36090087840205,
+    "roll-roll-keep": 247.70701689551663,
+    "roll-roll-roll": 212.7801917131433
+  },
+  "1[3, 3, 3]": {
+    "keep-keep-keep": 275.93115381106367,
+    "keep-keep-roll": 65.13261239524113,
+    "keep-roll-keep": 52.83266550540869,
+    "keep-roll-roll": 10.231318861306015,
+    "roll-keep-keep": 30.847527340125644,
+    "roll-keep-roll": 87.80373308914082,
+    "roll-roll-keep": 10.295999996525703,
+    "roll-roll-roll": 19.764901105362853
+  },
+  "2[6, 4, 4]": {
+    "keep-keep-keep": 168.03802992382424,
+    "keep-keep-roll": 198.5486731182553,
+    "keep-roll-keep": 184.6632217086927,
+    "keep-roll-roll": 181.5446374024815,
+    "roll-keep-keep": 174.60452316276306,
+    "roll-keep-roll": 186.75296592279318,
+    "roll-roll-keep": 240.04339438403073,
+    "roll-roll-roll": 176.02918161102554
+  },
+  "2[5, 5, 2]": {
+    "keep-keep-keep": 152.60953179495192,
+    "keep-keep-roll": 184.29090321553727,
+    "keep-roll-keep": 158.51864410064837,
+    "keep-roll-roll": 162.13414051068605,
+    "roll-keep-keep": 168.56867147019778,
+    "roll-keep-roll": 166.63679717336026,
+    "roll-roll-keep": 166.65194452369022,
+    "roll-roll-roll": 170.5484073709299
+  },
+  "2[5, 5, 5]": {
+    "keep-keep-keep": 277.75248155905626,
+    "keep-keep-roll": 61.70896470819217,
+    "keep-roll-keep": 92.39573265673239,
+    "keep-roll-roll": 131.34706135487386,
+    "roll-keep-keep": 98.71332811505226,
+    "roll-keep-roll": 97.4511029462882,
+    "roll-roll-keep": 125.49591152037976,
+    "roll-roll-roll": 109.27365994177896
+  },
+  "2[6, 4, 3]": {
+    "keep-keep-keep": 162.46912851997502,
+    "keep-keep-roll": 181.7842946775063,
+    "keep-roll-keep": 170.98533134423235,
+    "keep-roll-roll": 176.68307078132332,
+    "roll-keep-keep": 174.8508119374917,
+    "roll-keep-roll": 230.67694190401065,
+    "roll-roll-keep": 192.05891267635243,
+    "roll-roll-roll": 176.73627401302238
+  },
+  "2[6, 4, 2]": {
+    "keep-keep-keep": 193.3682295700793,
+    "keep-keep-roll": 190.2810840633897,
+    "keep-roll-keep": 180.440351717775,
+    "keep-roll-roll": 196.6432741594727,
+    "roll-keep-keep": 265.79487490114093,
+    "roll-keep-roll": 213.70230372297036,
+    "roll-roll-keep": 213.98596122998555,
+    "roll-roll-roll": 173.36870057512306
+  },
+  "2[4, 3, 1]": {
+    "keep-keep-keep": 214.31328816747464,
+    "keep-keep-roll": 189.82188049438741,
+    "keep-roll-keep": 320.3135889533711,
+    "keep-roll-roll": 210.75345603294073,
+    "roll-keep-keep": 281.2006466834657,
+    "roll-keep-roll": 185.34309431650854,
+    "roll-roll-keep": 271.0786080965702,
+    "roll-roll-roll": 246.92201441784397
+  },
+  "2[6, 5, 2]": {
+    "keep-keep-keep": 160.90353953768204,
+    "keep-keep-roll": 136.22996453451924,
+    "keep-roll-keep": 147.40777913807167,
+    "keep-roll-roll": 163.37926333295584,
+    "roll-keep-keep": 185.89665038258505,
+    "roll-keep-roll": 173.1494408975136,
+    "roll-roll-keep": 171.12927619469036,
+    "roll-roll-roll": 203.30025699902953
+  },
+  "2[5, 4, 1]": {
+    "keep-keep-keep": 213.7654764923831,
+    "keep-keep-roll": 203.1971856728985,
+    "keep-roll-keep": 261.65249639132827,
+    "keep-roll-roll": 205.86441586862247,
+    "roll-keep-keep": 268.3560039111269,
+    "roll-keep-roll": 228.02223278981523,
+    "roll-roll-keep": 335.39888224031256,
+    "roll-roll-roll": 206.4321433802727
+  },
+  "2[5, 3, 1]": {
+    "keep-keep-keep": 197.63117750631687,
+    "keep-keep-roll": 163.3438278009021,
+    "keep-roll-keep": 245.7409572978808,
+    "keep-roll-roll": 184.69814940190008,
+    "roll-keep-keep": 243.4174695366999,
+    "roll-keep-roll": 191.9499302940903,
+    "roll-roll-keep": 308.36571901167054,
+    "roll-roll-roll": 211.3641242442987
+  },
+  "2[5, 3, 2]": {
+    "keep-keep-keep": 153.01244052427273,
+    "keep-keep-roll": 163.25833641363687,
+    "keep-roll-keep": 162.0385147387323,
+    "keep-roll-roll": 165.898298513302,
+    "roll-keep-keep": 152.3042698415052,
+    "roll-keep-roll": 162.69362878720443,
+    "roll-roll-keep": 180.98285529525148,
+    "roll-roll-roll": 201.77691995144212
+  },
+  "2[6, 6, 3]": {
+    "keep-keep-keep": 160.03502381216757,
+    "keep-keep-roll": 160.50868200286902,
+    "keep-roll-keep": 144.78040607254755,
+    "keep-roll-roll": 169.5356261548732,
+    "roll-keep-keep": 160.67681561529295,
+    "roll-keep-roll": 167.59143599259392,
+    "roll-roll-keep": 162.2350661709723,
+    "roll-roll-roll": 273.4395396555137
+  },
+  "2[2, 2, 1]": {
+    "keep-keep-keep": 160.81119715061246,
+    "keep-keep-roll": 166.6528741111853,
+    "keep-roll-keep": 254.28236739213995,
+    "keep-roll-roll": 223.03516259109003,
+    "roll-keep-keep": 451.8911685018732,
+    "roll-keep-roll": 287.8756258391987,
+    "roll-roll-keep": 291.1397425559388,
+    "roll-roll-roll": 246.9238580582548
+  },
+  "2[5, 2, 2]": {
+    "keep-keep-keep": 164.53719793078426,
+    "keep-keep-roll": 158.7778600241721,
+    "keep-roll-keep": 153.95563186708137,
+    "keep-roll-roll": 169.73991016750028,
+    "roll-keep-keep": 192.42357457587707,
+    "roll-keep-roll": 212.94980892777136,
+    "roll-roll-keep": 190.5847983235207,
+    "roll-roll-roll": 188.77449934583302
+  },
+  "2[4, 3, 2]": {
+    "keep-keep-keep": 228.07558020351019,
+    "keep-keep-roll": 171.64904030435005,
+    "keep-roll-keep": 311.9419310931985,
+    "keep-roll-roll": 207.4847203301186,
+    "roll-keep-keep": 149.90469386102222,
+    "roll-keep-roll": 180.19268784137944,
+    "roll-roll-keep": 197.85824966314075,
+    "roll-roll-roll": 200.36914461128353
+  },
+  "2[3, 2, 2]": {
+    "keep-keep-keep": 152.71743252530504,
+    "keep-keep-roll": 141.29691879933972,
+    "keep-roll-keep": 161.76419664086137,
+    "keep-roll-roll": 178.2440569106693,
+    "roll-keep-keep": 174.7470025361865,
+    "roll-keep-roll": 175.6250252319564,
+    "roll-roll-keep": 180.77429771473865,
+    "roll-roll-roll": 212.68104912574955
+  },
+  "2[6, 2, 1]": {
+    "keep-keep-keep": 210.0669512974702,
+    "keep-keep-roll": 161.28249361752256,
+    "keep-roll-keep": 242.84195057606638,
+    "keep-roll-roll": 183.33642519011954,
+    "roll-keep-keep": 361.2519613515639,
+    "roll-keep-roll": 195.29175135176354,
+    "roll-roll-keep": 261.4026937438966,
+    "roll-roll-roll": 222.1446104670547
+  },
+  "2[6, 5, 4]": {
+    "keep-keep-keep": 187.596758036609,
+    "keep-keep-roll": 128.50720963068616,
+    "keep-roll-keep": 175.87061008367658,
+    "keep-roll-roll": 163.61586902508077,
+    "roll-keep-keep": 180.56866043861976,
+    "roll-keep-roll": 159.24442236803878,
+    "roll-roll-keep": 163.67612710173745,
+    "roll-roll-roll": 274.2525699816729
+  },
+  "2[6, 1, 1]": {
+    "keep-keep-keep": 416.07691033018324,
+    "keep-keep-roll": 216.76308970498968,
+    "keep-roll-keep": 231.0126138884416,
+    "keep-roll-roll": 157.2500995828024,
+    "roll-keep-keep": 449.45296302358753,
+    "roll-keep-roll": 364.81971424848024,
+    "roll-roll-keep": 344.56682137719923,
+    "roll-roll-roll": 256.6350538914508
+  },
+  "2[6, 3, 1]": {
+    "keep-keep-keep": 217.04545741477492,
+    "keep-keep-roll": 137.44698274519396,
+    "keep-roll-keep": 254.85290873165107,
+    "keep-roll-roll": 187.68222592278747,
+    "roll-keep-keep": 238.44388889513084,
+    "roll-keep-roll": 181.02691742884485,
+    "roll-roll-keep": 358.9241437886646,
+    "roll-roll-roll": 198.43691206336325
+  },
+  "2[5, 4, 2]": {
+    "keep-keep-keep": 189.58624035165778,
+    "keep-keep-roll": 192.54047235623574,
+    "keep-roll-keep": 180.32925633409315,
+    "keep-roll-roll": 187.05532261460175,
+    "roll-keep-keep": 311.59477824326376,
+    "roll-keep-roll": 190.7526426629468,
+    "roll-roll-keep": 225.64718978392403,
+    "roll-roll-roll": 210.87748950989894
+  },
+  "2[6, 6, 4]": {
+    "keep-keep-keep": 166.27611695695936,
+    "keep-keep-roll": 115.35728985283059,
+    "keep-roll-keep": 166.12209170429352,
+    "keep-roll-roll": 178.51504167660107,
+    "roll-keep-keep": 175.74714326980984,
+    "roll-keep-roll": 170.14903424134724,
+    "roll-roll-keep": 285.5945555430306,
+    "roll-roll-roll": 167.20403311413583
+  },
+  "2[5, 3, 3]": {
+    "keep-keep-keep": 154.97565141350688,
+    "keep-keep-roll": 145.37289040490663,
+    "keep-roll-keep": 195.2869226835196,
+    "keep-roll-roll": 163.86092883542742,
+    "roll-keep-keep": 174.1894214756353,
+    "roll-keep-roll": 181.84697161044215,
+    "roll-roll-keep": 171.4409578674968,
+    "roll-roll-roll": 206.91917215481638
+  },
+  "2[6, 5, 5]": {
+    "keep-keep-keep": 148.37193141009809,
+    "keep-keep-roll": 155.86043786084392,
+    "keep-roll-keep": 139.28320324273943,
+    "keep-roll-roll": 156.55590920717998,
+    "roll-keep-keep": 113.16612312171259,
+    "roll-keep-roll": 158.29190476261553,
+    "roll-roll-keep": 158.04865337432594,
+    "roll-roll-roll": 204.13092712742184
+  },
+  "2[3, 3, 2]": {
+    "keep-keep-keep": 163.35075889896197,
+    "keep-keep-roll": 175.04056209591974,
+    "keep-roll-keep": 138.1232132458885,
+    "keep-roll-roll": 174.5228949342277,
+    "roll-keep-keep": 151.54198580799948,
+    "roll-keep-roll": 165.99492747610117,
+    "roll-roll-keep": 178.77049236773377,
+    "roll-roll-roll": 297.039607376252
+  },
+  "1[6, 5, 2]": {
+    "keep-keep-keep": 108.14673786832986,
+    "keep-keep-roll": 109.01974818553764,
+    "keep-roll-keep": 94.07775834703659,
+    "keep-roll-roll": 135.43123191728662,
+    "roll-keep-keep": 100.22735401926602,
+    "roll-keep-roll": 108.9618426033404,
+    "roll-roll-keep": 106.2212502463977,
+    "roll-roll-roll": 98.65788567436404
+  },
+  "1[5, 3, 2]": {
+    "keep-keep-keep": 124.1832005871116,
+    "keep-keep-roll": 97.98246882340169,
+    "keep-roll-keep": 91.48209017510767,
+    "keep-roll-roll": 108.25462155924461,
+    "roll-keep-keep": 123.79023306291033,
+    "roll-keep-roll": 101.64459029818146,
+    "roll-roll-keep": 195.0161978281527,
+    "roll-roll-roll": 113.63262800608227
+  },
+  "1[5, 4, 4]": {
+    "keep-keep-keep": 111.99501911647897,
+    "keep-keep-roll": 111.465490615371,
+    "keep-roll-keep": 94.36180773664002,
+    "keep-roll-roll": 112.34707363624149,
+    "roll-keep-keep": 163.5209116623269,
+    "roll-keep-roll": 106.99101907660507,
+    "roll-roll-keep": 100.89050099475062,
+    "roll-roll-roll": 111.61717854366306
+  },
+  "2[6, 2, 2]": {
+    "keep-keep-keep": 163.64373408564856,
+    "keep-keep-roll": 142.35413946102204,
+    "keep-roll-keep": 168.92903666245698,
+    "keep-roll-roll": 182.49772098529783,
+    "roll-keep-keep": 175.02626123335787,
+    "roll-keep-roll": 317.9078746701732,
+    "roll-roll-keep": 171.65627533519466,
+    "roll-roll-roll": 168.7273239455712
+  },
+  "2[6, 6, 2]": {
+    "keep-keep-keep": 161.8947481789411,
+    "keep-keep-roll": 174.08153733814328,
+    "keep-roll-keep": 151.97489758245212,
+    "keep-roll-roll": 154.42332015216036,
+    "roll-keep-keep": 140.29633714570886,
+    "roll-keep-roll": 156.67748482316205,
+    "roll-roll-keep": 161.45329629623996,
+    "roll-roll-roll": 226.9526079402909
+  },
+  "2[6, 6, 6]": {
+    "keep-keep-keep": 278.66314543302076,
+    "keep-keep-roll": 93.41460370329351,
+    "keep-roll-keep": 112.99403574532062,
+    "keep-roll-roll": 103.14238725562842,
+    "roll-keep-keep": 99.9910596039924,
+    "roll-keep-roll": 76.61421184923313,
+    "roll-roll-keep": 94.11346476518625,
+    "roll-roll-roll": 148.84293578823156
+  },
+  "2[4, 2, 2]": {
+    "keep-keep-keep": 199.2764772295932,
+    "keep-keep-roll": 251.4367570575837,
+    "keep-roll-keep": 330.53691423025396,
+    "keep-roll-roll": 198.5355457758899,
+    "roll-keep-keep": 173.19085177442852,
+    "roll-keep-roll": 203.10438175711076,
+    "roll-roll-keep": 186.04443282570136,
+    "roll-roll-roll": 199.27881072780374
+  },
+  "2[3, 1, 1]": {
+    "keep-keep-keep": 411.16145953480594,
+    "keep-keep-roll": 238.72568997711167,
+    "keep-roll-keep": 250.2880619034944,
+    "keep-roll-roll": 163.61037073196488,
+    "roll-keep-keep": 432.66328389982925,
+    "roll-keep-roll": 292.68158089470495,
+    "roll-roll-keep": 308.95641741322,
+    "roll-roll-roll": 238.48629452024502
+  },
+  "2[6, 5, 3]": {
+    "keep-keep-keep": 162.88182045199827,
+    "keep-keep-roll": 146.8823927508198,
+    "keep-roll-keep": 146.1383024066881,
+    "keep-roll-roll": 171.4712454099521,
+    "roll-keep-keep": 148.89912619756478,
+    "roll-keep-roll": 148.48907797285997,
+    "roll-roll-keep": 178.20104028028322,
+    "roll-roll-roll": 230.46492653354687
+  },
+  "2[2, 1, 1]": {
+    "keep-keep-keep": 420.5434064471238,
+    "keep-keep-roll": 318.4521376266039,
+    "keep-roll-keep": 356.92452408699864,
+    "keep-roll-roll": 241.84527792744356,
+    "roll-keep-keep": 465.82651098580834,
+    "roll-keep-roll": 387.9361521131293,
+    "roll-roll-keep": 284.90219670933345,
+    "roll-roll-roll": 265.15189056541385
+  },
+  "2[5, 5, 4]": {
+    "keep-keep-keep": 160.4365377458799,
+    "keep-keep-roll": 167.98977205733476,
+    "keep-roll-keep": 169.93756954446175,
+    "keep-roll-roll": 180.0881693945653,
+    "roll-keep-keep": 183.67014996987245,
+    "roll-keep-roll": 149.22054113033332,
+    "roll-roll-keep": 212.876985328514,
+    "roll-roll-roll": 195.62094231800663
+  },
+  "1[5, 2, 1]": {
+    "keep-keep-keep": 159.70291664747742,
+    "keep-keep-roll": 104.02645374418513,
+    "keep-roll-keep": 128.00860785338875,
+    "keep-roll-roll": 105.46446388502656,
+    "roll-keep-keep": 141.86924409078807,
+    "roll-keep-roll": 159.14186156720808,
+    "roll-roll-keep": 283.1628384207634,
+    "roll-roll-roll": 152.1795879497573
+  },
+  "0[5, 5, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.68045846417213,
+    "keep-roll-keep": 42.99855,
+    "keep-roll-roll": 104.99475210440445,
+    "roll-keep-keep": 64.320848655,
+    "roll-keep-roll": 104.99796685772216,
+    "roll-roll-keep": 72.04988741055001,
+    "roll-roll-roll": 104.99966092916813
+  },
+  "2[6, 4, 1]": {
+    "keep-keep-keep": 217.21673982194838,
+    "keep-keep-roll": 165.30591460524056,
+    "keep-roll-keep": 260.9976183754142,
+    "keep-roll-roll": 187.33029738495202,
+    "roll-keep-keep": 269.1682783697204,
+    "roll-keep-roll": 271.77240579633934,
+    "roll-roll-keep": 286.19221876572794,
+    "roll-roll-roll": 245.82595310191738
+  },
+  "2[6, 6, 1]": {
+    "keep-keep-keep": 202.8945800065423,
+    "keep-keep-roll": 151.57196724491962,
+    "keep-roll-keep": 246.68359516996867,
+    "keep-roll-roll": 159.5695529076956,
+    "roll-keep-keep": 281.5998168206103,
+    "roll-keep-roll": 171.25375148220806,
+    "roll-roll-keep": 322.1478521740044,
+    "roll-roll-roll": 204.42538868770237
+  },
+  "2[5, 1, 1]": {
+    "keep-keep-keep": 414.29624763391735,
+    "keep-keep-roll": 274.91120944436017,
+    "keep-roll-keep": 269.3038040956376,
+    "keep-roll-roll": 150.7981679078955,
+    "roll-keep-keep": 451.57095311431806,
+    "roll-keep-roll": 299.5088050025164,
+    "roll-roll-keep": 294.77329180724763,
+    "roll-roll-roll": 228.28475833906026
+  },
+  "2[3, 3, 1]": {
+    "keep-keep-keep": 207.08929145962605,
+    "keep-keep-roll": 157.49613972973344,
+    "keep-roll-keep": 242.50668209138775,
+    "keep-roll-roll": 184.5852769308352,
+    "roll-keep-keep": 232.7463523886191,
+    "roll-keep-roll": 168.92362397598572,
+    "roll-roll-keep": 425.91377653869904,
+    "roll-roll-roll": 200.13366076332062
+  },
+  "2[1, 1, 1]": {
+    "keep-keep-keep": 546.3983243784712,
+    "keep-keep-roll": 323.7005983447177,
+    "keep-roll-keep": 292.28411691293763,
+    "keep-roll-roll": 230.54948334010567,
+    "roll-keep-keep": 337.3677527251939,
+    "roll-keep-roll": 215.96608402005742,
+    "roll-roll-keep": 256.78536039668165,
+    "roll-roll-roll": 127.72729268611599
+  },
+  "2[4, 4, 2]": {
+    "keep-keep-keep": 200.80303661514276,
+    "keep-keep-roll": 202.42999165891126,
+    "keep-roll-keep": 222.8800699929065,
+    "keep-roll-roll": 215.48130327651768,
+    "roll-keep-keep": 224.05241670986578,
+    "roll-keep-roll": 249.02175996879407,
+    "roll-roll-keep": 191.6201675671727,
+    "roll-roll-roll": 195.14782654739147
+  },
+  "2[4, 3, 3]": {
+    "keep-keep-keep": 162.98289707017653,
+    "keep-keep-roll": 168.45990422748866,
+    "keep-roll-keep": 169.71883658253319,
+    "keep-roll-roll": 219.96260889237067,
+    "roll-keep-keep": 171.28235039534627,
+    "roll-keep-roll": 166.74813360499346,
+    "roll-roll-keep": 193.3800430003633,
+    "roll-roll-roll": 179.04758761670686
+  },
+  "1[6, 5, 1]": {
+    "keep-keep-keep": 153.5014099842863,
+    "keep-keep-roll": 119.75854789090923,
+    "keep-roll-keep": 135.58157108679157,
+    "keep-roll-roll": 110.83100811416952,
+    "roll-keep-keep": 140.91283259620423,
+    "roll-keep-roll": 114.06402551553458,
+    "roll-roll-keep": 264.6144958011105,
+    "roll-roll-roll": 119.41948885691241
+  },
+  "2[4, 4, 3]": {
+    "keep-keep-keep": 158.0394976334662,
+    "keep-keep-roll": 187.94399603648947,
+    "keep-roll-keep": 173.5516769307742,
+    "keep-roll-roll": 299.7455557677999,
+    "roll-keep-keep": 164.80978265058081,
+    "roll-keep-roll": 183.45298844992504,
+    "roll-roll-keep": 173.756662454152,
+    "roll-roll-roll": 187.00036185036197
+  },
+  "1[4, 3, 1]": {
+    "keep-keep-keep": 163.96925791463306,
+    "keep-keep-roll": 118.69005173482951,
+    "keep-roll-keep": 185.50692567835787,
+    "keep-roll-roll": 148.57013802368832,
+    "roll-keep-keep": 164.13557387802348,
+    "roll-keep-roll": 125.41225030048355,
+    "roll-roll-keep": 142.3000432784126,
+    "roll-roll-roll": 107.7071605109813
+  },
+  "2[5, 4, 3]": {
+    "keep-keep-keep": 190.9073904556089,
+    "keep-keep-roll": 208.55523753898385,
+    "keep-roll-keep": 167.6536497686917,
+    "keep-roll-roll": 179.1794204425932,
+    "roll-keep-keep": 183.0407308010817,
+    "roll-keep-roll": 186.66817916941739,
+    "roll-roll-keep": 172.94288585448535,
+    "roll-roll-roll": 184.78490170617124
+  },
+  "2[4, 1, 1]": {
+    "keep-keep-keep": 419.3726265538098,
+    "keep-keep-roll": 315.84731464806293,
+    "keep-roll-keep": 297.0565416648524,
+    "keep-roll-roll": 204.61353103117673,
+    "roll-keep-keep": 446.93871467690576,
+    "roll-keep-roll": 328.0421871445995,
+    "roll-roll-keep": 307.6684940775545,
+    "roll-roll-roll": 233.97235277294232
+  },
+  "1[6, 2, 1]": {
+    "keep-keep-keep": 174.78427113918963,
+    "keep-keep-roll": 104.61112582892167,
+    "keep-roll-keep": 151.27270124380232,
+    "keep-roll-roll": 104.90324441995098,
+    "roll-keep-keep": 190.42394272210623,
+    "roll-keep-roll": 142.15497162822072,
+    "roll-roll-keep": 338.8226077814555,
+    "roll-roll-roll": 177.03506714389187
+  },
+  "2[3, 3, 3]": {
+    "keep-keep-keep": 275.9311538111282,
+    "keep-keep-roll": 124.29416871387912,
+    "keep-roll-keep": 129.09022779022624,
+    "keep-roll-roll": 113.55902165892358,
+    "roll-keep-keep": 108.38374493378454,
+    "roll-keep-roll": 150.30431723799717,
+    "roll-roll-keep": 103.60109101936922,
+    "roll-roll-roll": 133.3772970566088
+  },
+  "2[4, 2, 1]": {
+    "keep-keep-keep": 728.5310991712955,
+    "keep-keep-roll": 266.2919355673528,
+    "keep-roll-keep": 390.9293980364102,
+    "keep-roll-roll": 181.91548173234943,
+    "roll-keep-keep": 293.63201672503834,
+    "roll-keep-roll": 209.25275012253834,
+    "roll-roll-keep": 320.04690413031796,
+    "roll-roll-roll": 220.24348414498496
+  },
+  "2[4, 4, 1]": {
+    "keep-keep-keep": 210.24169938298252,
+    "keep-keep-roll": 200.32013656745136,
+    "keep-roll-keep": 324.81398163401514,
+    "keep-roll-roll": 205.96847878582977,
+    "roll-keep-keep": 304.0744383926304,
+    "roll-keep-roll": 196.36527207636976,
+    "roll-roll-keep": 290.8598303980698,
+    "roll-roll-roll": 247.27045693052668
+  },
+  "2[6, 3, 2]": {
+    "keep-keep-keep": 160.8493852021691,
+    "keep-keep-roll": 146.72354062918677,
+    "keep-roll-keep": 168.44866150887663,
+    "keep-roll-roll": 142.06714957518253,
+    "roll-keep-keep": 153.2863049998257,
+    "roll-keep-roll": 173.48110382879838,
+    "roll-roll-keep": 181.1312036172897,
+    "roll-roll-roll": 252.84816233585292
+  },
+  "1[5, 1, 1]": {
+    "keep-keep-keep": 409.8815165572842,
+    "keep-keep-roll": 136.2333381660112,
+    "keep-roll-keep": 145.2522718258591,
+    "keep-roll-roll": 121.01083607446624,
+    "roll-keep-keep": 415.09857748562086,
+    "roll-keep-roll": 237.60856389152337,
+    "roll-roll-keep": 267.2788148976611,
+    "roll-roll-roll": 183.2192019673056
+  },
+  "1[5, 4, 3]": {
+    "keep-keep-keep": 186.68609416264437,
+    "keep-keep-roll": 145.7930127076517,
+    "keep-roll-keep": 126.84170966580909,
+    "keep-roll-roll": 139.2030965711375,
+    "roll-keep-keep": 141.59474374890058,
+    "roll-keep-roll": 156.64633848918004,
+    "roll-roll-keep": 138.40308473631796,
+    "roll-roll-roll": 149.42535310924418
+  },
+  "1[6, 4, 2]": {
+    "keep-keep-keep": 135.53108546283977,
+    "keep-keep-roll": 129.9029546047292,
+    "keep-roll-keep": 104.90645612812659,
+    "keep-roll-roll": 106.49834160685296,
+    "roll-keep-keep": 269.9468852268101,
+    "roll-keep-roll": 123.25035875616086,
+    "roll-roll-keep": 134.7796743478309,
+    "roll-roll-roll": 130.9864776769469
+  },
+  "0[6, 3, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.5899037673872,
+    "keep-roll-keep": 105.92620294743216,
+    "keep-roll-roll": 105.99815274501617,
+    "roll-keep-keep": 105.99992169272164,
+    "roll-keep-roll": 105.99928433557088,
+    "roll-roll-keep": 105.99996629128438,
+    "roll-roll-roll": 105.99999999979522
+  },
+  "2[4, 4, 4]": {
+    "keep-keep-keep": 276.84181768509205,
+    "keep-keep-roll": 157.6059253865456,
+    "keep-roll-keep": 145.8916949642485,
+    "keep-roll-roll": 132.15346437613297,
+    "roll-keep-keep": 149.42633674222728,
+    "roll-keep-roll": 148.5474481808874,
+    "roll-roll-keep": 178.36497821155518,
+    "roll-roll-roll": 141.84122497300612
+  },
+  "1[5, 5, 2]": {
+    "keep-keep-keep": 107.13382972662998,
+    "keep-keep-roll": 67.586445955047,
+    "keep-roll-keep": 78.1504203318751,
+    "keep-roll-roll": 70.53079739691555,
+    "roll-keep-keep": 63.829996457341494,
+    "roll-keep-roll": 123.1016622569371,
+    "roll-roll-keep": 109.83718510744202,
+    "roll-roll-roll": 80.07670976090482
+  },
+  "1[4, 3, 2]": {
+    "keep-keep-keep": 185.7754302886808,
+    "keep-keep-roll": 144.78424786827327,
+    "keep-roll-keep": 176.8383973004244,
+    "keep-roll-roll": 131.10329574733106,
+    "roll-keep-keep": 140.2775830404786,
+    "roll-keep-roll": 125.990088436746,
+    "roll-roll-keep": 149.78551735193966,
+    "roll-roll-roll": 119.72675789372556
+  },
+  "1[6, 5, 3]": {
+    "keep-keep-keep": 105.2280310288811,
+    "keep-keep-roll": 106.04252016461547,
+    "keep-roll-keep": 84.47900063635117,
+    "keep-roll-roll": 106.02738740071351,
+    "roll-keep-keep": 102.13682828600591,
+    "roll-keep-roll": 106.0179302137878,
+    "roll-roll-keep": 100.02284948349518,
+    "roll-roll-roll": 158.9424877216848
+  },
+  "2[6, 3, 3]": {
+    "keep-keep-keep": 159.3488397889173,
+    "keep-keep-roll": 136.35771984666417,
+    "keep-roll-keep": 134.74317443706033,
+    "keep-roll-roll": 156.81178654146757,
+    "roll-keep-keep": 166.44939142881174,
+    "roll-keep-roll": 163.572756671596,
+    "roll-roll-keep": 165.78832257584804,
+    "roll-roll-roll": 268.1928436848948
+  },
+  "1[6, 5, 4]": {
+    "keep-keep-keep": 187.59675803660855,
+    "keep-keep-roll": 117.6044164905014,
+    "keep-roll-keep": 122.69068814447766,
+    "keep-roll-roll": 106.51825453315226,
+    "roll-keep-keep": 121.6437632298995,
+    "roll-keep-roll": 104.91150264640409,
+    "roll-roll-keep": 148.44961358727036,
+    "roll-roll-roll": 117.3405607569787
+  },
+  "2[5, 5, 3]": {
+    "keep-keep-keep": 153.1080811703362,
+    "keep-keep-roll": 134.15156801737882,
+    "keep-roll-keep": 150.4657529121351,
+    "keep-roll-roll": 172.18129343805546,
+    "roll-keep-keep": 157.9483505080164,
+    "roll-keep-roll": 158.86662887554454,
+    "roll-roll-keep": 166.36046882097918,
+    "roll-roll-roll": 237.75855777519627
+  },
+  "1[5, 4, 1]": {
+    "keep-keep-keep": 146.10794602059428,
+    "keep-keep-roll": 134.7447142551499,
+    "keep-roll-keep": 115.12119085502567,
+    "keep-roll-roll": 119.98118037042344,
+    "roll-keep-keep": 303.67556974507363,
+    "roll-keep-roll": 131.42249932475815,
+    "roll-roll-keep": 151.30316482417533,
+    "roll-roll-roll": 143.55490054526288
+  },
+  "1[5, 3, 3]": {
+    "keep-keep-keep": 132.4712901869998,
+    "keep-keep-roll": 73.86249638566565,
+    "keep-roll-keep": 43.998353646736945,
+    "keep-roll-roll": 85.79178782002326,
+    "roll-keep-keep": 63.02705873753469,
+    "roll-keep-roll": 112.04327496827318,
+    "roll-roll-keep": 122.62014062282043,
+    "roll-roll-roll": 153.35125491737713
+  },
+  "2[6, 6, 5]": {
+    "keep-keep-keep": 147.86726392795498,
+    "keep-keep-roll": 171.2915616385955,
+    "keep-roll-keep": 127.55853584308679,
+    "keep-roll-roll": 159.03830688349402,
+    "roll-keep-keep": 153.56090375291066,
+    "roll-keep-roll": 156.111630800215,
+    "roll-roll-keep": 163.57178764509518,
+    "roll-roll-roll": 217.23925597240336
+  },
+  "2[2, 2, 2]": {
+    "keep-keep-keep": 275.02048993716414,
+    "keep-keep-roll": 119.33046960443644,
+    "keep-roll-keep": 147.82544640053547,
+    "keep-roll-roll": 138.15453323598703,
+    "roll-keep-keep": 130.9137168182719,
+    "roll-keep-roll": 107.98328814714095,
+    "roll-roll-keep": 174.15191691037182,
+    "roll-roll-roll": 117.56843900420522
+  },
+  "1[5, 2, 2]": {
+    "keep-keep-keep": 110.93202996195349,
+    "keep-keep-roll": 86.82222802302661,
+    "keep-roll-keep": 73.06107520820387,
+    "keep-roll-roll": 121.40604838293368,
+    "roll-keep-keep": 87.2669662016314,
+    "roll-keep-roll": 93.57971829492256,
+    "roll-roll-keep": 91.51248327868205,
+    "roll-roll-roll": 154.5250416879811
+  },
+  "1[4, 2, 1]": {
+    "keep-keep-keep": 728.5310991712955,
+    "keep-keep-roll": 330.21379407224754,
+    "keep-roll-keep": 226.02592024656835,
+    "keep-roll-roll": 198.7738552229689,
+    "roll-keep-keep": 274.7723054475139,
+    "roll-keep-roll": 157.28447580892384,
+    "roll-roll-keep": 277.07090967504155,
+    "roll-roll-roll": 254.70209531933966
+  },
+  "0[6, 5, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.90889252769401,
+    "keep-roll-keep": 105.78835212023236,
+    "keep-roll-roll": 105.99999823586242,
+    "roll-keep-keep": 79.05622221971262,
+    "roll-keep-roll": 105.99983627893391,
+    "roll-roll-keep": 105.99994291399409,
+    "roll-roll-roll": 105.9999999940348
+  },
+  "1[3, 2, 1]": {
+    "keep-keep-keep": 184.86476641475355,
+    "keep-keep-roll": 129.4990234241774,
+    "keep-roll-keep": 156.87346173815803,
+    "keep-roll-roll": 118.01131022521378,
+    "roll-keep-keep": 177.68538646860776,
+    "roll-keep-roll": 134.61512123054368,
+    "roll-roll-keep": 174.0399062632173,
+    "roll-roll-roll": 111.48672009042082
+  },
+  "1[5, 5, 3]": {
+    "keep-keep-keep": 106.97192159530107,
+    "keep-keep-roll": 112.96625705710164,
+    "keep-roll-keep": 52.96356883175549,
+    "keep-roll-roll": 99.76818487517681,
+    "roll-keep-keep": 95.0364975607083,
+    "roll-keep-roll": 100.33186720341634,
+    "roll-roll-keep": 139.60775522880223,
+    "roll-roll-roll": 97.86338867488554
+  },
+  "1[4, 3, 3]": {
+    "keep-keep-keep": 115.55152883778227,
+    "keep-keep-roll": 107.11821039249203,
+    "keep-roll-keep": 134.67237033744138,
+    "keep-roll-roll": 109.1950124869586,
+    "roll-keep-keep": 97.53607836432174,
+    "roll-keep-roll": 87.04168048175511,
+    "roll-roll-keep": 79.60527817548504,
+    "roll-roll-roll": 165.95133345586504
+  },
+  "1[3, 1, 1]": {
+    "keep-keep-keep": 411.55232883626314,
+    "keep-keep-roll": 135.5743464769526,
+    "keep-roll-keep": 133.18581604994574,
+    "keep-roll-roll": 112.7449223544514,
+    "roll-keep-keep": 435.14411115034454,
+    "roll-keep-roll": 240.49016527268395,
+    "roll-roll-keep": 184.13862075679577,
+    "roll-roll-roll": 231.70174833306785
+  },
+  "1[4, 4, 3]": {
+    "keep-keep-keep": 120.93386652663416,
+    "keep-keep-roll": 119.66808748070729,
+    "keep-roll-keep": 113.9075595169269,
+    "keep-roll-roll": 166.48095047134174,
+    "roll-keep-keep": 115.56888202583065,
+    "roll-keep-roll": 101.54794072049246,
+    "roll-roll-keep": 79.94762521734688,
+    "roll-roll-roll": 113.27914271941171
+  },
+  "0[5, 4, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.99999999999996,
+    "keep-roll-keep": 104.99999999999996,
+    "keep-roll-roll": 104.99999998888126,
+    "roll-keep-keep": 104.99999999999996,
+    "roll-keep-roll": 104.99999999612315,
+    "roll-roll-keep": 104.99999998305327,
+    "roll-roll-roll": 104.99999999979713
+  },
+  "1[2, 1, 1]": {
+    "keep-keep-keep": 405.0469670800203,
+    "keep-keep-roll": 155.04388674670614,
+    "keep-roll-keep": 237.10909754372506,
+    "keep-roll-roll": 185.50312296363188,
+    "roll-keep-keep": 422.2613462968518,
+    "roll-keep-roll": 241.99877711192636,
+    "roll-roll-keep": 257.7865867800077,
+    "roll-roll-roll": 135.94221580209307
+  },
+  "1[6, 4, 4]": {
+    "keep-keep-keep": 116.73464487803656,
+    "keep-keep-roll": 95.1757620033142,
+    "keep-roll-keep": 99.94307939752699,
+    "keep-roll-roll": 93.53239563661789,
+    "roll-keep-keep": 123.49179808897122,
+    "roll-keep-roll": 98.40460028890149,
+    "roll-roll-keep": 138.87702221216253,
+    "roll-roll-roll": 116.85255498105369
+  },
+  "1[2, 2, 1]": {
+    "keep-keep-keep": 133.36689951169026,
+    "keep-keep-roll": 84.83211335293326,
+    "keep-roll-keep": 150.0753273407142,
+    "keep-roll-roll": 127.77019123340253,
+    "roll-keep-keep": 190.13649189118124,
+    "roll-keep-roll": 108.13300397531512,
+    "roll-roll-keep": 217.16384674934469,
+    "roll-roll-roll": 147.8020470702597
+  },
+  "1[4, 1, 1]": {
+    "keep-keep-keep": 420.96267295118616,
+    "keep-keep-roll": 218.14358389720866,
+    "keep-roll-keep": 275.21422853136244,
+    "keep-roll-roll": 283.74260757152354,
+    "roll-keep-keep": 449.7660666932987,
+    "roll-keep-roll": 272.1398002092959,
+    "roll-roll-keep": 246.3510186193293,
+    "roll-roll-roll": 135.98468334353726
+  },
+  "1[3, 2, 2]": {
+    "keep-keep-keep": 116.68481837702645,
+    "keep-keep-roll": 121.68694125845525,
+    "keep-roll-keep": 125.37352104169274,
+    "keep-roll-roll": 115.7302337286097,
+    "roll-keep-keep": 110.66668543776942,
+    "roll-keep-roll": 132.64670224472013,
+    "roll-roll-keep": 107.69113434586356,
+    "roll-roll-roll": 114.5432289657966
+  },
+  "1[6, 6, 2]": {
+    "keep-keep-keep": 109.17014167007471,
+    "keep-keep-roll": 114.19395964816165,
+    "keep-roll-keep": 74.57853116989835,
+    "keep-roll-roll": 74.77297569978404,
+    "roll-keep-keep": 80.32801027040836,
+    "roll-keep-roll": 58.77583537481218,
+    "roll-roll-keep": 113.27527283239208,
+    "roll-roll-roll": 58.368897902402864
+  },
+  "0[6, 2, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 101.95588350054442,
+    "keep-roll-keep": 105.99999999999991,
+    "keep-roll-roll": 105.9910280012302,
+    "roll-keep-keep": 105.99999999999991,
+    "roll-keep-roll": 105.99718449171797,
+    "roll-roll-keep": 105.99999999999991,
+    "roll-roll-roll": 105.99999999910466
+  },
+  "1[4, 4, 2]": {
+    "keep-keep-keep": 147.62307734175351,
+    "keep-keep-roll": 132.19054586855964,
+    "keep-roll-keep": 164.54389487553263,
+    "keep-roll-roll": 109.86470558340805,
+    "roll-keep-keep": 232.27971428070128,
+    "roll-keep-roll": 160.24387496590867,
+    "roll-roll-keep": 134.94701619447721,
+    "roll-roll-roll": 126.63618912318657
+  },
+  "1[6, 6, 1]": {
+    "keep-keep-keep": 133.96678933114632,
+    "keep-keep-roll": 110.45037556936823,
+    "keep-roll-keep": 92.16222508050666,
+    "keep-roll-roll": 106.16364567136698,
+    "roll-keep-keep": 159.07222681338902,
+    "roll-keep-roll": 129.08220979991944,
+    "roll-roll-keep": 209.92335694661483,
+    "roll-roll-roll": 108.83351598864624
+  },
+  "0[6, 6, 5]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.89876947521557,
+    "keep-roll-keep": 49.66725400000001,
+    "keep-roll-roll": 105.99815274501617,
+    "roll-keep-keep": 20.14,
+    "roll-keep-roll": 104.73091339064848,
+    "roll-roll-keep": 10.600000000000001,
+    "roll-roll-roll": 105.99969192992992
+  },
+  "1[6, 4, 1]": {
+    "keep-keep-keep": 152.97458643293254,
+    "keep-keep-roll": 123.03831471762977,
+    "keep-roll-keep": 136.2766024765131,
+    "keep-roll-roll": 139.567571347153,
+    "roll-keep-keep": 186.6863610423427,
+    "roll-keep-roll": 139.44440452133426,
+    "roll-roll-keep": 229.3377947577618,
+    "roll-roll-roll": 123.38561545453899
+  },
+  "1[6, 6, 6]": {
+    "keep-keep-keep": 278.66314543207096,
+    "keep-keep-roll": 36.0173098725334,
+    "keep-roll-keep": 64.69215663859629,
+    "keep-roll-roll": 27.021136197117272,
+    "roll-keep-keep": 19.740530132508294,
+    "roll-keep-roll": 2.8438740000000005,
+    "roll-roll-keep": 28.37864698108264,
+    "roll-roll-roll": 88.71144004189475
+  },
+  "1[6, 3, 1]": {
+    "keep-keep-keep": 161.273658305246,
+    "keep-keep-roll": 102.04169955942596,
+    "keep-roll-keep": 131.28660840455822,
+    "keep-roll-roll": 124.06304911152704,
+    "roll-keep-keep": 120.19361876108484,
+    "roll-keep-roll": 128.1594242295872,
+    "roll-roll-keep": 229.19884179546722,
+    "roll-roll-roll": 115.23552606206053
+  },
+  "1[4, 4, 4]": {
+    "keep-keep-keep": 276.84181768509205,
+    "keep-keep-roll": 87.30825311552216,
+    "keep-roll-keep": 86.65216003179732,
+    "keep-roll-roll": 64.45880771833724,
+    "roll-keep-keep": 77.6001639937824,
+    "roll-keep-roll": 56.615870902712494,
+    "roll-roll-keep": 122.85401135796234,
+    "roll-roll-roll": 74.96511203574062
+  },
+  "1[4, 2, 2]": {
+    "keep-keep-keep": 142.86884523695966,
+    "keep-keep-roll": 125.95613785345871,
+    "keep-roll-keep": 273.11599656830344,
+    "keep-roll-roll": 126.35003081934728,
+    "roll-keep-keep": 89.35942860648663,
+    "roll-keep-roll": 126.43899035320341,
+    "roll-roll-keep": 144.31883627494017,
+    "roll-roll-roll": 126.82290827829036
+  },
+  "1[6, 4, 3]": {
+    "keep-keep-keep": 115.88597840411538,
+    "keep-keep-roll": 107.13652540313987,
+    "keep-roll-keep": 101.12533710527853,
+    "keep-roll-roll": 107.95083323466096,
+    "roll-keep-keep": 116.60383412456073,
+    "roll-keep-roll": 116.19837455447936,
+    "roll-roll-keep": 108.15909357653445,
+    "roll-roll-roll": 116.96467983894368
+  },
+  "1[5, 5, 1]": {
+    "keep-keep-keep": 157.76828630543417,
+    "keep-keep-roll": 147.60995827368805,
+    "keep-roll-keep": 142.93538065700568,
+    "keep-roll-roll": 99.70200464410779,
+    "roll-keep-keep": 134.98932909404724,
+    "roll-keep-roll": 109.05779325026273,
+    "roll-roll-keep": 171.9836268610118,
+    "roll-roll-roll": 123.43677201241783
+  },
+  "1[5, 4, 2]": {
+    "keep-keep-keep": 140.65332434098664,
+    "keep-keep-roll": 131.67338729398477,
+    "keep-roll-keep": 104.00058761269881,
+    "keep-roll-roll": 126.35549501500387,
+    "roll-keep-keep": 186.1814777742569,
+    "roll-keep-roll": 133.92157916130208,
+    "roll-roll-keep": 122.01053771522129,
+    "roll-roll-roll": 124.67029480998077
+  },
+  "0[6, 4, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.93358265268895,
+    "keep-roll-keep": 105.99999976169121,
+    "keep-roll-roll": 105.99999494050269,
+    "roll-keep-keep": 105.99999731117572,
+    "roll-keep-roll": 105.99999987335295,
+    "roll-roll-keep": 105.95158175381027,
+    "roll-roll-roll": 105.99999999919419
+  },
+  "1[4, 4, 1]": {
+    "keep-keep-keep": 150.08503745946626,
+    "keep-keep-roll": 118.55632015140263,
+    "keep-roll-keep": 296.3759806959768,
+    "keep-roll-roll": 127.77123744851441,
+    "roll-keep-keep": 193.21188758150333,
+    "roll-keep-roll": 114.73271523213482,
+    "roll-roll-keep": 154.8081829673227,
+    "roll-roll-roll": 166.29494018539518
+  },
+  "0[6, 5, 5]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.99771943829157,
+    "keep-roll-keep": 49.66725400000001,
+    "keep-roll-roll": 105.99985265104053,
+    "roll-keep-keep": 0.0,
+    "roll-keep-roll": 105.94620194867807,
+    "roll-roll-keep": 10.600000000000001,
+    "roll-roll-roll": 105.99878801600514
+  },
+  "1[6, 3, 2]": {
+    "keep-keep-keep": 117.91643575547965,
+    "keep-keep-roll": 93.47219240950592,
+    "keep-roll-keep": 94.04750764476526,
+    "keep-roll-roll": 110.29824393880335,
+    "roll-keep-keep": 130.39909666665505,
+    "roll-keep-roll": 113.18277615876585,
+    "roll-roll-keep": 103.11423188155624,
+    "roll-roll-roll": 120.27188826403318
+  },
+  "1[6, 6, 3]": {
+    "keep-keep-keep": 105.98105663709816,
+    "keep-keep-roll": 29.877776692573505,
+    "keep-roll-keep": 73.50534039804464,
+    "keep-roll-roll": 84.49891397502418,
+    "roll-keep-keep": 56.52973455343052,
+    "roll-keep-roll": 121.52337334385905,
+    "roll-roll-keep": 86.22833275558222,
+    "roll-roll-roll": 67.39674990638775
+  },
+  "1[5, 3, 1]": {
+    "keep-keep-keep": 157.0181359699427,
+    "keep-keep-roll": 109.83611713434054,
+    "keep-roll-keep": 125.01843957095551,
+    "keep-roll-roll": 117.13081344427708,
+    "roll-keep-keep": 145.34586513663342,
+    "roll-keep-roll": 120.1228773061439,
+    "roll-roll-keep": 255.43902842239987,
+    "roll-roll-roll": 137.4047345877998
+  },
+  "1[3, 3, 2]": {
+    "keep-keep-keep": 104.51623755000462,
+    "keep-keep-roll": 82.47785409143569,
+    "keep-roll-keep": 87.57367427662271,
+    "keep-roll-roll": 101.12905273259645,
+    "roll-keep-keep": 110.60028035805513,
+    "roll-keep-roll": 125.65795620417023,
+    "roll-roll-keep": 108.39348573331925,
+    "roll-roll-roll": 90.56130668247715
+  },
+  "0[2, 1, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 299.8169937011742,
+    "keep-roll-keep": 401.99999999361063,
+    "keep-roll-roll": 319.2317648979511,
+    "roll-keep-keep": 401.9999999999997,
+    "roll-keep-roll": 396.65227655178893,
+    "roll-roll-keep": 401.9999999999997,
+    "roll-roll-roll": 401.99967002593377
+  },
+  "0[6, 4, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.99999999999991,
+    "keep-roll-keep": 105.99999999999991,
+    "keep-roll-roll": 105.99999931653696,
+    "roll-keep-keep": 105.99999999999991,
+    "roll-keep-roll": 105.99999963677973,
+    "roll-roll-keep": 105.99999997392453,
+    "roll-roll-roll": 105.9999999940348
+  },
+  "1[6, 6, 4]": {
+    "keep-keep-keep": 126.6170330705014,
+    "keep-keep-roll": 88.23199458765315,
+    "keep-roll-keep": 77.60938606903692,
+    "keep-roll-roll": 79.24707508238708,
+    "roll-keep-keep": 90.9391321024061,
+    "roll-keep-roll": 78.01552774385,
+    "roll-roll-keep": 166.30093843995277,
+    "roll-roll-roll": 99.22288628312958
+  },
+  "0[4, 4, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 102.75485842101364,
+    "keep-roll-keep": 104.00000000000001,
+    "keep-roll-roll": 103.98509252354124,
+    "roll-keep-keep": 104.00000000000001,
+    "roll-keep-roll": 103.99989460935183,
+    "roll-roll-keep": 104.00000000000001,
+    "roll-roll-roll": 103.99836883899546
+  },
+  "0[2, 2, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 0.0,
+    "keep-roll-keep": 0.0,
+    "keep-roll-roll": 0.0,
+    "roll-keep-keep": 0.0,
+    "roll-keep-roll": 0.0,
+    "roll-roll-keep": 0.0,
+    "roll-roll-roll": 0.0
+  },
+  "0[4, 4, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.00000000000001,
+    "keep-roll-keep": 104.00000000000001,
+    "keep-roll-roll": 103.99903681573845,
+    "roll-keep-keep": 104.00000000000001,
+    "roll-keep-roll": 103.9999896214357,
+    "roll-roll-keep": 103.99980168890204,
+    "roll-roll-roll": 103.99980168890204
+  },
+  "0[5, 3, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 95.69391497436489,
+    "keep-roll-keep": 104.99866605535152,
+    "keep-roll-roll": 104.9997997820645,
+    "roll-keep-keep": 104.99986863701253,
+    "roll-keep-roll": 104.99999056947757,
+    "roll-roll-keep": 104.99999999999996,
+    "roll-roll-roll": 104.99999999901456
+  },
+  "1[3, 3, 1]": {
+    "keep-keep-keep": 156.64626674370436,
+    "keep-keep-roll": 124.59616195038474,
+    "keep-roll-keep": 114.41747291969497,
+    "keep-roll-roll": 122.78216729005567,
+    "roll-keep-keep": 147.88780112610291,
+    "roll-keep-roll": 117.29340813682201,
+    "roll-roll-keep": 271.3035983286888,
+    "roll-roll-roll": 168.29866170880035
+  },
+  "0[5, 2, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 103.27556365683265,
+    "keep-roll-keep": 104.99999999999987,
+    "keep-roll-roll": 104.99975281736357,
+    "roll-keep-keep": 104.99999999999996,
+    "roll-keep-roll": 104.99999872607627,
+    "roll-roll-keep": 104.99999999999996,
+    "roll-roll-roll": 104.99999999521377
+  },
+  "1[6, 2, 2]": {
+    "keep-keep-keep": 100.30513508858203,
+    "keep-keep-roll": 87.65244952765703,
+    "keep-roll-keep": 62.26577635527877,
+    "keep-roll-roll": 114.69139525754662,
+    "roll-keep-keep": 110.24422898327393,
+    "roll-keep-roll": 95.15156256435759,
+    "roll-roll-keep": 102.77426923427528,
+    "roll-roll-roll": 106.73949717186002
+  },
+  "0[3, 2, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 98.14856744183635,
+    "keep-roll-keep": 101.8901478425765,
+    "keep-roll-roll": 101.8901478425765,
+    "roll-keep-keep": 102.99991545440592,
+    "roll-keep-roll": 102.99726417591458,
+    "roll-roll-keep": 102.99995506900494,
+    "roll-roll-roll": 102.99978177304381
+  },
+  "0[6, 6, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.5899037673872,
+    "keep-roll-keep": 100.45251508991001,
+    "keep-roll-roll": 105.9647030985277,
+    "roll-keep-keep": 36.4534,
+    "roll-keep-roll": 105.39299980891568,
+    "roll-roll-keep": 105.96078122058634,
+    "roll-roll-roll": 105.99961966658014
+  },
+  "0[5, 2, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 89.24006329381511,
+    "keep-roll-keep": 97.46207112923557,
+    "keep-roll-roll": 104.95683467674591,
+    "roll-keep-keep": 103.08395961870293,
+    "roll-keep-roll": 104.99617428411085,
+    "roll-roll-keep": 104.99998952164175,
+    "roll-roll-roll": 104.99929108712209
+  },
+  "1[1, 1, 1]": {
+    "keep-keep-keep": 546.3983243784712,
+    "keep-keep-roll": 352.0772332308623,
+    "keep-roll-keep": 385.8977073033076,
+    "keep-roll-roll": 205.29924009390191,
+    "roll-keep-keep": 370.05184667126036,
+    "roll-keep-roll": 190.80566197713387,
+    "roll-roll-keep": 158.45939129498163,
+    "roll-roll-roll": 163.95143405775738
+  },
+  "0[6, 5, 4]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 205.99999775061463,
+    "keep-roll-keep": 178.17245461593635,
+    "keep-roll-roll": 205.9999999227632,
+    "roll-keep-keep": 205.97047172932187,
+    "roll-keep-roll": 205.99999962486592,
+    "roll-roll-keep": 205.84064787391003,
+    "roll-roll-roll": 205.99999998956645
+  },
+  "0[6, 1, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 231.23031274000002,
+    "keep-roll-keep": 405.9962398768251,
+    "keep-roll-roll": 396.853469784755,
+    "roll-keep-keep": 406.00000000000006,
+    "roll-keep-roll": 373.61482411079,
+    "roll-roll-keep": 406.00000000000006,
+    "roll-roll-roll": 405.986686508706
+  },
+  "1[6, 1, 1]": {
+    "keep-keep-keep": 405.70164593252525,
+    "keep-keep-roll": 165.88028910801128,
+    "keep-roll-keep": 170.8802454264644,
+    "keep-roll-roll": 123.13663578340577,
+    "roll-keep-keep": 427.32874910802013,
+    "roll-keep-roll": 240.42677726902275,
+    "roll-roll-keep": 229.69363218320996,
+    "roll-roll-roll": 181.35097069367157
+  },
+  "0[6, 6, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 101.50653722282712,
+    "keep-roll-keep": 105.99942031181243,
+    "keep-roll-roll": 105.84570869564939,
+    "roll-keep-keep": 93.1128746133997,
+    "roll-keep-roll": 91.68097179266633,
+    "roll-roll-keep": 105.99999999999991,
+    "roll-roll-roll": 105.99833747051457
+  },
+  "0[5, 5, 4]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.99999151252982,
+    "keep-roll-keep": 42.99855,
+    "keep-roll-roll": 104.99998028312032,
+    "roll-keep-keep": 104.97935415970008,
+    "roll-keep-roll": 104.99996994836202,
+    "roll-roll-keep": 102.37168671975711,
+    "roll-roll-roll": 104.99962325463126
+  },
+  "0[5, 4, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.99921231902454,
+    "keep-roll-keep": 104.99999999999996,
+    "keep-roll-roll": 104.99999986060858,
+    "roll-keep-keep": 104.99999999999996,
+    "roll-keep-roll": 104.9999990713096,
+    "roll-roll-keep": 104.99999999999996,
+    "roll-roll-roll": 104.99999999928163
+  },
+  "1[6, 5, 5]": {
+    "keep-keep-keep": 96.53037064019654,
+    "keep-keep-roll": 81.71760664361847,
+    "keep-roll-keep": 69.9886337602264,
+    "keep-roll-roll": 70.41399000806693,
+    "roll-keep-keep": 49.66831846889352,
+    "roll-keep-roll": 68.20030611035749,
+    "roll-roll-keep": 78.25586076781289,
+    "roll-roll-roll": 48.785199981770845
+  },
+  "1[5, 5, 4]": {
+    "keep-keep-keep": 113.63407358944886,
+    "keep-keep-roll": 104.11624159759427,
+    "keep-roll-keep": 90.38155644714445,
+    "keep-roll-roll": 103.06189854431219,
+    "roll-keep-keep": 121.40760148849805,
+    "roll-keep-roll": 134.82970965797756,
+    "roll-roll-keep": 182.8355609919925,
+    "roll-roll-roll": 94.46921816927153
+  },
+  "0[3, 2, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 189.88400376486996,
+    "keep-roll-keep": 202.99999999999832,
+    "keep-roll-roll": 202.82552059548956,
+    "roll-keep-keep": 203.00000000000003,
+    "roll-keep-roll": 202.99999536558312,
+    "roll-roll-keep": 203.00000000000003,
+    "roll-roll-roll": 202.99999999875016
+  },
+  "1[6, 3, 3]": {
+    "keep-keep-keep": 106.85480715294091,
+    "keep-keep-roll": 70.87939141420667,
+    "keep-roll-keep": 84.453015680584,
+    "keep-roll-roll": 65.585927136716,
+    "roll-keep-keep": 81.81006488261721,
+    "roll-keep-roll": 64.6845584882911,
+    "roll-roll-keep": 87.80767075109343,
+    "roll-roll-roll": 189.9468306511808
+  },
+  "0[4, 3, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 102.29198686010098,
+    "keep-roll-keep": 103.99999976618764,
+    "keep-roll-roll": 103.79234547645441,
+    "roll-keep-keep": 103.99999994056809,
+    "roll-keep-roll": 103.99985543120961,
+    "roll-roll-keep": 102.6165093566818,
+    "roll-roll-roll": 103.9996641584142
+  },
+  "1[6, 6, 5]": {
+    "keep-keep-keep": 96.53037064019654,
+    "keep-keep-roll": 61.795326430410555,
+    "keep-roll-keep": 92.47125233117961,
+    "keep-roll-roll": 81.88413337017462,
+    "roll-keep-keep": 71.84689204322532,
+    "roll-keep-roll": 56.423592292572096,
+    "roll-roll-keep": 40.556093065643616,
+    "roll-roll-roll": 76.00419365843666
+  },
+  "0[6, 5, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.97203984642528,
+    "keep-roll-keep": 105.99999997392453,
+    "keep-roll-roll": 105.99999047966313,
+    "roll-keep-keep": 104.5899037673872,
+    "roll-keep-roll": 105.9876927314543,
+    "roll-roll-keep": 105.99999999999991,
+    "roll-roll-roll": 105.99999999848373
+  },
+  "0[4, 3, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 103.68350171689437,
+    "keep-roll-keep": 104.00000000000001,
+    "keep-roll-roll": 103.99621071950035,
+    "roll-keep-keep": 104.00000000000001,
+    "roll-keep-roll": 103.99999971134275,
+    "roll-roll-keep": 104.00000000000001,
+    "roll-roll-roll": 103.9999999952594
+  },
+  "0[6, 2, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 91.68097179266633,
+    "keep-roll-keep": 95.56142843685376,
+    "keep-roll-roll": 105.78835212023236,
+    "roll-keep-keep": 104.06571161507156,
+    "roll-keep-roll": 105.94022438742007,
+    "roll-roll-keep": 105.99998387722587,
+    "roll-roll-roll": 105.99957740731128
+  },
+  "0[4, 4, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 103.84861985233529,
+    "keep-roll-keep": 103.99999991847471,
+    "keep-roll-roll": 103.9891324496616,
+    "roll-keep-keep": 103.99999997157394,
+    "roll-keep-roll": 103.99997321111134,
+    "roll-roll-keep": 103.9413522291669,
+    "roll-roll-roll": 103.999914633575
+  },
+  "0[3, 3, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 93.87117373675791,
+    "keep-roll-keep": 102.344643399563,
+    "keep-roll-roll": 100.13527758872995,
+    "roll-keep-keep": 102.99998857914389,
+    "roll-keep-roll": 102.99662243940071,
+    "roll-roll-keep": 102.96189118604138,
+    "roll-roll-roll": 102.99726417591458
+  },
+  "0[4, 3, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 203.99999999999997,
+    "keep-roll-keep": 203.99999999999997,
+    "keep-roll-roll": 203.99979327219006,
+    "roll-keep-keep": 203.99999999999997,
+    "roll-keep-roll": 203.99999999964533,
+    "roll-roll-keep": 203.9999999703675,
+    "roll-roll-roll": 203.9999999996808
+  },
+  "0[2, 2, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 184.99901232200006,
+    "keep-roll-keep": 30.200000000000003,
+    "keep-roll-roll": 256.6714201403063,
+    "roll-keep-keep": 286.1949014825738,
+    "roll-keep-roll": 284.438779425082,
+    "roll-roll-keep": 301.76638668893605,
+    "roll-roll-roll": 297.9825560165181
+  },
+  "0[6, 3, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 100.45251508991001,
+    "keep-roll-keep": 105.99998824649768,
+    "keep-roll-roll": 105.9876927314543,
+    "roll-keep-keep": 105.99470212444646,
+    "roll-keep-roll": 105.9919252011072,
+    "roll-roll-keep": 105.99999999999991,
+    "roll-roll-roll": 105.99999999997513
+  },
+  "0[6, 5, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.91800327492462,
+    "keep-roll-keep": 96.60528559316839,
+    "keep-roll-roll": 105.99999985928105,
+    "roll-keep-keep": 49.66725400000001,
+    "roll-keep-roll": 105.99992952344948,
+    "roll-roll-keep": 76.06246913301402,
+    "roll-roll-roll": 105.99999999965314
+  },
+  "0[5, 5, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.74117135597943,
+    "keep-roll-keep": 104.96115120907132,
+    "keep-roll-roll": 104.99416900489383,
+    "roll-keep-keep": 89.24006329381511,
+    "roll-keep-roll": 104.94078830829343,
+    "roll-roll-keep": 104.99999999999996,
+    "roll-roll-roll": 104.9997997820645
+  },
+  "0[3, 1, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 289.18089679815705,
+    "keep-roll-keep": 363.3137326420006,
+    "keep-roll-roll": 246.86954293300008,
+    "roll-keep-keep": 402.99999999999994,
+    "roll-keep-roll": 395.6460545365457,
+    "roll-roll-keep": 402.99999999999994,
+    "roll-roll-roll": 402.996976805399
+  },
+  "0[5, 1, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 230.66077995000003,
+    "keep-roll-keep": 404.9750100209737,
+    "keep-roll-roll": 401.8186572794321,
+    "roll-keep-keep": 404.99999999999983,
+    "roll-keep-roll": 403.8907343827689,
+    "roll-roll-keep": 404.99999999999983,
+    "roll-roll-roll": 404.99894064584396
+  },
+  "0[5, 3, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 103.742885905831,
+    "keep-roll-keep": 104.81131391850901,
+    "keep-roll-roll": 104.99966092916813,
+    "roll-keep-keep": 104.99997295352583,
+    "roll-keep-roll": 104.99999960022924,
+    "roll-roll-keep": 104.99995877690262,
+    "roll-roll-roll": 104.99999999911311
+  },
+  "0[5, 4, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 204.99986370101075,
+    "keep-roll-keep": 204.99999975506938,
+    "keep-roll-roll": 204.99999948791083,
+    "roll-keep-keep": 204.99999999990942,
+    "roll-keep-roll": 204.99999999859745,
+    "roll-roll-keep": 204.96372230918732,
+    "roll-roll-roll": 204.99999999807608
+  },
+  "0[4, 2, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 799.9999999999997,
+    "keep-roll-keep": 799.9999999999997,
+    "keep-roll-roll": 799.9925908902952,
+    "roll-keep-keep": 799.9999999999997,
+    "roll-keep-roll": 799.9999994355938,
+    "roll-roll-keep": 799.9999999999997,
+    "roll-roll-roll": 799.9999999967682
+  },
+  "1[5, 5, 5]": {
+    "keep-keep-keep": 277.75248155905166,
+    "keep-keep-roll": 17.82428551368851,
+    "keep-roll-keep": 55.847559601460006,
+    "keep-roll-roll": 35.0093010875233,
+    "roll-keep-keep": 10.394999999999996,
+    "roll-keep-roll": 19.20550252616814,
+    "roll-roll-keep": 36.44797828208496,
+    "roll-roll-roll": 20.195999999999998
+  },
+  "0[5, 3, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 102.07965191084124,
+    "keep-roll-keep": 54.7788255,
+    "keep-roll-roll": 104.94078830829343,
+    "roll-keep-keep": 36.1095,
+    "roll-keep-roll": 104.97935415970008,
+    "roll-roll-keep": 75.34489866949501,
+    "roll-roll-roll": 104.99958139403473
+  },
+  "0[3, 3, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 85.82250284934344,
+    "keep-roll-keep": 95.6056507267739,
+    "keep-roll-roll": 92.85685970750879,
+    "roll-keep-keep": 102.998940085695,
+    "roll-keep-roll": 102.95765687337932,
+    "roll-roll-keep": 102.99999999999993,
+    "roll-roll-roll": 102.99993836626192
+  },
+  "0[3, 3, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 217.4238504462571,
+    "keep-roll-keep": 30.3,
+    "keep-roll-roll": 197.35043264970005,
+    "roll-keep-keep": 141.973377,
+    "roll-keep-roll": 298.5213924687455,
+    "roll-roll-keep": 217.4238504462571,
+    "roll-roll-roll": 288.72831004734394
+  },
+  "1[2, 2, 2]": {
+    "keep-keep-keep": 275.02048993716414,
+    "keep-keep-roll": 53.5359495536743,
+    "keep-roll-keep": 38.13941440403885,
+    "keep-roll-roll": 100.6671471514398,
+    "roll-keep-keep": 38.65173469397724,
+    "roll-keep-roll": 124.95471389077568,
+    "roll-roll-keep": 120.27683361501329,
+    "roll-roll-roll": 74.46102487293331
+  },
+  "0[6, 4, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.88752163912841,
+    "keep-roll-keep": 105.99999999999991,
+    "keep-roll-roll": 105.99997542634634,
+    "roll-keep-keep": 105.99999999999991,
+    "roll-keep-roll": 105.99998824649768,
+    "roll-roll-keep": 105.99999999999991,
+    "roll-roll-roll": 105.99999999877184
+  },
+  "0[6, 6, 6]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 278.8794093538634,
+    "keep-roll-keep": 30.6,
+    "keep-roll-roll": 286.2290894189665,
+    "roll-keep-keep": 0.0,
+    "roll-keep-roll": 174.27703374,
+    "roll-roll-keep": 0.0,
+    "roll-roll-roll": 303.0324923868505
+  },
+  "0[6, 3, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 90.08996865851813,
+    "keep-roll-keep": 84.17553999796723,
+    "keep-roll-roll": 105.91800327492462,
+    "roll-keep-keep": 64.93342816600001,
+    "roll-keep-roll": 105.93358265268895,
+    "roll-roll-keep": 86.3579859981705,
+    "roll-roll-roll": 105.99985265104053
+  },
+  "0[4, 1, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 301.30862053550845,
+    "keep-roll-keep": 403.99999999999966,
+    "keep-roll-roll": 399.64679347962067,
+    "roll-keep-keep": 403.99999999999966,
+    "roll-keep-roll": 403.6527601998904,
+    "roll-roll-keep": 403.99999999999966,
+    "roll-roll-roll": 403.9989432615332
+  },
+  "0[6, 4, 4]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.93358265268895,
+    "keep-roll-keep": 81.75059999774138,
+    "keep-roll-roll": 105.99920481730098,
+    "roll-keep-keep": 98.39028133046642,
+    "roll-keep-roll": 105.99981808770434,
+    "roll-roll-keep": 105.94620194867807,
+    "roll-roll-roll": 105.99992169272164
+  },
+  "0[4, 2, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.00000000000001,
+    "keep-roll-keep": 104.00000000000001,
+    "keep-roll-roll": 103.68350171689437,
+    "roll-keep-keep": 104.00000000000001,
+    "roll-keep-roll": 103.99913313416461,
+    "roll-roll-keep": 103.99999917213893,
+    "roll-roll-roll": 103.99853195509593
+  },
+  "0[1, 1, 1]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 60.0,
+    "keep-roll-keep": 281.1354,
+    "keep-roll-roll": 60.0,
+    "roll-keep-keep": 599.9999999999997,
+    "roll-keep-roll": 341.719674,
+    "roll-roll-keep": 599.9999999999997,
+    "roll-roll-roll": 589.0511978211598
+  },
+  "0[5, 5, 2]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.74117135597943,
+    "keep-roll-keep": 89.24006329381511,
+    "keep-roll-roll": 104.99774095302462,
+    "roll-keep-keep": 54.7788255,
+    "roll-keep-roll": 104.99280124060967,
+    "roll-roll-keep": 104.96115120907132,
+    "roll-roll-roll": 104.99200137845519
+  },
+  "0[6, 6, 3]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.43322640820799,
+    "keep-roll-keep": 84.17553999796723,
+    "keep-roll-roll": 105.82856521738822,
+    "roll-keep-keep": 28.726000000000003,
+    "roll-keep-roll": 103.34665516470722,
+    "roll-roll-keep": 43.408060000000006,
+    "roll-roll-roll": 105.99652406384934
+  },
+  "0[6, 6, 4]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 105.92620294743216,
+    "keep-roll-keep": 64.93342816600001,
+    "keep-roll-roll": 105.99928433557088,
+    "roll-keep-keep": 0.0,
+    "roll-keep-roll": 105.875024043476,
+    "roll-roll-keep": 103.0518390718969,
+    "roll-roll-roll": 105.99833747051457
+  },
+  "0[5, 4, 4]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 104.9997997820645,
+    "keep-roll-keep": 78.31040880254551,
+    "keep-roll-roll": 104.99972535262619,
+    "roll-keep-keep": 104.99690117012979,
+    "roll-keep-roll": 104.99998028312032,
+    "roll-roll-keep": 104.98141874373007,
+    "roll-roll-roll": 104.99879944981637
+  },
+  "0[4, 4, 4]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 274.0629645736182,
+    "keep-roll-keep": 30.400000000000002,
+    "keep-roll-roll": 301.8508262509939,
+    "roll-keep-keep": 270.73662730402026,
+    "roll-keep-roll": 301.8508262509939,
+    "roll-roll-keep": 270.73662730402026,
+    "roll-roll-roll": 296.3904072648205
+  },
+  "0[5, 5, 5]": {
+    "keep-keep-keep": 0.0,
+    "keep-keep-roll": 301.3483828693187,
+    "keep-roll-keep": 30.5,
+    "keep-roll-roll": 304.3233479734891,
+    "roll-keep-keep": 30.5,
+    "roll-keep-roll": 299.4343588924229,
+    "roll-roll-keep": 0.0,
+    "roll-roll-roll": 294.5272643481079
+  }
+}
