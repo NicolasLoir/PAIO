@@ -19,15 +19,12 @@ for h in range( 3 ) :
                 # state= { "H":h,  D1:i1,  D2:i2,  D3:i3 }
                 state = f"{h}[{i1},{i2},{i3}]"
                 S.append( state )
+discount_factor = 0.99
 
 def main():
-    print(A)
-    print(S)
-    print(len(S))
     V, optimal_policy = value_iterations(S, A, P, R)
-    # print("\n---------------\n")
-    # print(V)
-    # print(optimal_policy)
+    print(V)
+    print(optimal_policy)
     total = 0
     score = 0
     for v in V:
@@ -59,23 +56,14 @@ def value_iterations(S, A, P, R):
             for a in A:
                 somme = 0
                 for s_next in S:
-                    # print(f'P(s_next, s, a): {P(s_next, s, a)}')
-                    # print(f'oldV[s_next]: {oldV[s_next]}')
                     somme += P(s_next, s, a) * oldV[s_next]
-                # print(f'somme: {somme}')
-                # print(f'R(s,a): {R(s,a)}')
-                Q[a] = R(s,a) + somme
-                # print(f'Q[a]: {Q[a]}')
-                # Q[a] = R(s,a) + sum( (P(s_next, s, a) * oldV[s_next]) for s_next in S)
+                Q[a] = R(s,a) + discount_factor * somme
             V[s] = max(Q.values())
             optimal_policy[s] = max(Q, key=Q.get)
         if (all(oldV[s] == V[s] for s in S)):
             print("break")
             break
         i+=1
-        print(V)
-        print(optimal_policy)
-        print("\n---------------\n")
     return V, optimal_policy
 
 def R(s, a):
@@ -100,11 +88,7 @@ def score(state):
     return 100 + int(D1(state))
 
 def P(s_next, s, a):
-    # print(f's_next: {s_next}')
-    # print(f's: {s}')
-    # print(f'a: {a}')
     if H(s_next) == str(int(H(s)) - 1):
-        # print("ici")
         if a == "keep-keep-keep" and D1(s_next) == D1(s) and D2(s_next) == D2(s) and D3(s_next) == D3(s):
             return 1
         elif a == "roll-keep-keep" and oneRoll(s_next, s, D2, D3):
@@ -113,45 +97,12 @@ def P(s_next, s, a):
             return 1/21
         elif a == "keep-keep-roll" and oneRoll(s_next, s, D1, D2):
             return 1/21
-        elif a == "keep-roll-roll" and D1(s_next) == D1(s):
-            if int(D1(s)) == 1:
-                return 1
-            elif int(D1(s)) == 2:
-                return 1/3
-            elif int(D1(s)) == 3:
-                return 1/6
-            elif int(D1(s)) == 4:
-                return 1/10
-            elif int(D1(s)) == 5:
-                return 1/15
-            elif int(D1(s)) == 6:
-                return 1/21
-        elif a == "roll-keep-roll" and D2(s_next) == D2(s):
-            if int(D2(s)) == 1:
-                return 1/6
-            elif int(D2(s)) == 2:
-                return 1/10
-            elif int(D2(s)) == 3:
-                return 1/12
-            elif int(D2(s)) == 4:
-                return 1/12
-            elif int(D2(s)) == 5:
-                return 1/10
-            elif int(D2(s)) == 6:
-                return 1/6
-        elif a == "roll-roll-keep" and D3(s_next) == D3(s):
-            if int(D3(s)) == 1:
-                return 1/21
-            elif int(D3(s)) == 2:
-                return 1/15
-            elif int(D3(s)) == 3:
-                return 1/10
-            elif int(D3(s)) == 4:
-                return 1/6
-            elif int(D3(s)) == 5:
-                return 1/3
-            elif int(D3(s)) == 6:
-                return 1
+        elif a == "keep-roll-roll" and twoRoll(s_next, s, D1):
+            return 1/21
+        elif a == "roll-keep-roll" and twoRoll(s_next, s, D2):
+            return 1/21
+        elif a == "roll-roll-keep" and twoRoll(s_next, s, D3):
+            return 1/21
         elif a == "roll-roll-roll":
             return 1/56
         else:
@@ -164,6 +115,9 @@ def oneRoll(s_next, s, dA, dB):
     return (D2(s_next) == dA(s) and D3(s_next) == dB(s)) \
             or (D1(s_next) == dA(s) and D2(s_next) == dB(s)) \
             or (D1(s_next) == dA(s) and D3(s_next) == dB(s))
+
+def twoRoll(s_next, s, dA):
+    return D1(s_next) == dA(s) or D2(s_next) == dA(s) or D3(s_next) == dA(s)
 
 # script
 if __name__ == '__main__' :

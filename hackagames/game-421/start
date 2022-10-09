@@ -18,7 +18,7 @@ class StartCmd( hg.StartCmd ) :
             "421",
             ["solo", "duo"],
             parameters= {
-                "n": ["number of games", 1],
+                "n": ["number of games", 1000],
                 "p": ["server port", 1400]
             }
         )
